@@ -1,4 +1,4 @@
-# martial_arts_seeker
+# Martial Arts Seeker
 
 An app that describe about martial arts.
 
